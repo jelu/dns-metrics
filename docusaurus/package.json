@@ -1,0 +1,12 @@
+{
+  "name": "dns-metrics-docs",
+  "private": true,
+  "scripts": {
+    "build": "docusaurus build"
+  },
+  "dependencies": {
+    "@docusaurus/core": "^3.3.2",
+    "@docusaurus/preset-classic": "^3.3.2",
+    "@docusaurus-json-schema-plugin": "^3.0.0"
+  }
+}
