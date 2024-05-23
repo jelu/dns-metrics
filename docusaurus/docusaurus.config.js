@@ -4,9 +4,7 @@ export default {
     baseUrl: "/dns-metrics",
     presets: [["@docusaurus/preset-classic",
     {
-        docs: {
-            sidebarPath: './sidebars.js',
-        },
+        docs: {},
         blog: false,
     }]],
     themes: [["docusaurus-json-schema-plugin", {}]],
